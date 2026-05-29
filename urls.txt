@@ -1,0 +1,139 @@
+# Weibo URLs extracted from Research_Data spreadsheet
+# One URL per line. Lines starting with # are ignored.
+# Add/remove URLs as needed before running weibo_scraper.py
+
+# ── 2025年8月景区故意捅人事件 ──────────────────────────────────────────
+https://weibo.com/7516679696/PFv2A0j95
+https://weibo.com/1642512402/PFuoLbbII
+https://weibo.com/5890672121/PFLineiE6
+
+# ── 2024年成都女子遇害案 ────────────────────────────────────────────────
+https://m.weibo.cn/detail/5171355261080192
+https://m.weibo.cn/detail/5170887701040700
+https://m.weibo.cn/detail/5170887701040700
+https://m.weibo.cn/detail/5170680236872616
+https://m.weibo.cn/status/5170978167984618
+
+# ── 2023年5月K435列车杀人案 ─────────────────────────────────────────────
+https://weibo.com/6105713761/MFMt7fduE
+https://weibo.com/6105713761/NnfVXDqXN
+https://weibo.com/1974576991/NmVWTg1Xf
+https://weibo.com/2028810631/MFVrt1gR5
+
+# ── 2021年中南财大副教授被杀案 ──────────────────────────────────────────
+https://weibo.com/1789681642/QgJybtuT5
+https://weibo.com/2620088113/Qhhgkq97Y
+
+# ── 2019年红谷滩杀人事件 ────────────────────────────────────────────────
+https://weibo.com/5044281310/HFmZA49rb
+https://weibo.com/5463794433/HFAbWnFfg
+
+# ── 2024年景德镇一家三口被撞 ────────────────────────────────────────────
+https://weibo.com/2318910945/QmhxmvYgk
+https://weibo.com/1720962692/Qm9gmvxu6
+https://weibo.com/1699432410/Qmhvklxuo
+https://weibo.com/3936528530/QmhWxkv3R
+https://weibo.com/2104482423/QmiwcbLu2
+
+# ── 2025年6月武汉大学伤人事件 ───────────────────────────────────────────
+https://weibo.com/1720962692/Pvj5Wu01X
+https://weibo.com/1887344341/PvjlIFhiN
+
+# ── 2024年6月上海地铁持刀伤人 ───────────────────────────────────────────
+https://weibo.com/1323527941/OjGxEcJgF
+https://weibo.com/1824015157/OjGPu5w2f
+https://weibo.com/7791867655/OjGzXnHqd
+
+# ── 2024年6月吉林北山公园伤人案 ─────────────────────────────────────────
+https://weibo.com/2656274875/OiwqmCQTh
+https://weibo.com/2342024544/OiDCkpSHX
+
+# ── 2024年9月30日上海松江超市持刀伤人 ───────────────────────────────────
+https://weibo.com/2615417307/OzrIuFRWK
+https://weibo.com/6238911936/OztANbfZv
+https://weibo.com/1417206603/OzuhhCD5z
+
+# ── 2024年11月珠海体育中心撞人 ──────────────────────────────────────────
+https://weibo.com/1497087080/OFO2PxnEU
+https://weibo.com/1199581807/OFXjNvYwV
+https://weibo.com/5617030362/P00ku0J13
+
+# ── 2024年11月无锡职业技术学院持刀伤人 ─────────────────────────────────
+https://weibo.com/2656274875/P0CtmsS74
+https://weibo.com/5679508036/ParPH1oXK
+https://weibo.com/1191965271/PasjXww0e
+https://weibo.com/1887344341/P0IQ42MC4
+https://weibo.com/2087169013/Pasf2rUZy
+
+# ── 2024年9月深圳日本人学校学生被刺 ────────────────────────────────────
+https://weibo.com/1887344341/OxQj6xMI4
+https://weibo.com/1908194624/OxTCEnRPv
+https://weibo.com/1784473157/OxQxEtSm8
+
+# ── 2024年10月北京海淀持刀伤人 ──────────────────────────────────────────
+https://weibo.com/2342024544/ODEzc89gt
+https://weibo.com/3820915614/ODExMgRza
+
+# ── 2024年9月泰安校车冲撞学生 ───────────────────────────────────────────
+https://weibo.com/2318910945/OvfUFkhFu
+https://weibo.com/1887344341/OvfmTqD0S
+https://weibo.com/1918021250/OvfBECdjQ
+
+# ── 2022年上海瑞金医院持刀砍人 ──────────────────────────────────────────
+https://weibo.com/6105713761/NpMSNh1fV
+https://weibo.com/5617030362/NpO3p1ZB6
+https://weibo.com/5044281310/LBtoljN1y
+https://weibo.com/1213494361/LBtP99Av6
+https://weibo.com/2992050891/LBtguAULN
+
+# ── 2023年广西幼儿园行凶 ────────────────────────────────────────────────
+https://weibo.com/1644114654/N9e3FF262
+https://weibo.com/1924842983/N9ce5rOx2
+https://weibo.com/1644114654/N9bVS92HC
+
+# ── 2022年8月江西幼儿园行凶 ─────────────────────────────────────────────
+https://weibo.com/1974576991/LFj5ocFww
+https://weibo.com/1647210043/LFhwF6w0o
+https://weibo.com/1909111815/LFhy71RM7
+
+# ── 2023年湖北恩施涉校案 ────────────────────────────────────────────────
+https://weibo.com/1662214194/I5cFPmeKb
+https://weibo.com/1887344341/I53EHraz2
+https://weibo.com/5617030362/ImKOQ2SoW
+https://weibo.com/2087169013/I55wjtrUT
+https://weibo.com/2533150493/I58To88jW
+
+# ── 2020年广西梧州小学保安砍人 ──────────────────────────────────────────
+https://weibo.com/1784473157/J54msDEoB
+https://weibo.com/2803301701/J54i5b3Jj
+https://weibo.com/1191965271/JjGXgrvEB
+https://weibo.com/1402977920/J543fjlKg
+https://weibo.com/5476386628/J53IBevju
+
+# ── 2024年11月常德撞人事件 ──────────────────────────────────────────────
+https://weibo.com/1893892941/P11NMsHEB
+https://weibo.com/1699432410/P6cLB7xuN
+
+# ── 2023年长春火车站持刀伤人 ────────────────────────────────────────────
+https://weibo.com/3259204927/F2oznsgV3
+https://weibo.com/5053469079/F5bqawJc7
+
+# ── 2024年3月德州故意冲撞 ───────────────────────────────────────────────
+https://weibo.com/5044281310/O317L3re0
+
+# ── 2023年1月广州宝马撞人案 ─────────────────────────────────────────────
+https://weibo.com/2656274875/OapBRvLsE
+https://weibo.com/5634013749/OapFYxqYa
+
+# ── 2024年5月贵溪小学持刀伤人 ───────────────────────────────────────────
+https://weibo.com/2656274875/OfatPrvMU
+
+# ── 2025年6月北京密云撞人 ───────────────────────────────────────────────
+https://weibo.com/6321540324/PylNOwqb5
+https://weibo.com/1703371307/PylZUDReV
+https://weibo.com/1887344341/PykRMgOyh
+
+# ── 2025年8月湖南故意伤害案 ─────────────────────────────────────────────
+https://weibo.com/6238911936/PE90S6lB9
+https://weibo.com/5733335063/PEetWl05I
+https://weibo.com/6026921854/PEePreu4X
