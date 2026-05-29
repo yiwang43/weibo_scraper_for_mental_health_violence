@@ -58,14 +58,16 @@ def load_spreadsheet(csv_path: str) -> list[dict]:
 
 
 def main():
+    base = Path(__file__).parent.parent  # repo root
+
     # ── Load all scraped comments ─────────────────────────────────────────
-    comments = load_comments("comments.json")
-    new_comments = load_comments("new_comments.json")
+    comments = load_comments(base / "data/raw/comments.json")
+    new_comments = load_comments(base / "data/raw/new_comments.json")
     all_comments = comments + new_comments
     print(f"Total scraped comments: {len(all_comments)}")
 
     # ── Load spreadsheet ──────────────────────────────────────────────────
-    sheet_rows = load_spreadsheet("Research Data - Sheet1.csv")
+    sheet_rows = load_spreadsheet(base / "data/raw/Research Data - Sheet1.csv")
 
     # Build URL → sheet row lookup (one sheet row per URL)
     sheet_by_url: dict[str, dict] = {}
@@ -126,11 +128,14 @@ def main():
         "created_at", "is_reply", "reply_to_screen_name",
     ]
 
-    with open("enriched_comments.csv", "w", encoding="utf-8-sig", newline="") as f:
+    out_dir = base / "data/processed"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    with open(out_dir / "enriched_comments.csv", "w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(enriched)
-    print(f"\nWritten: enriched_comments.csv ({len(enriched)} rows)")
+    print(f"\nWritten: data/processed/enriched_comments.csv ({len(enriched)} rows)")
 
     # ── Write post-level CSV (one row per post, for post-level analysis) ──
     seen_posts = set()
@@ -159,11 +164,11 @@ def main():
         "incident", "incident_date", "post_title", "source", "account_type",
         "tags", "engagement", "post_url", "post_summary", "comments_in_dataset",
     ]
-    with open("enriched_posts.csv", "w", encoding="utf-8-sig", newline="") as f:
+    with open(out_dir / "enriched_posts.csv", "w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=post_fieldnames, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(post_rows)
-    print(f"Written: enriched_posts.csv ({len(post_rows)} rows)")
+    print(f"Written: data/processed/enriched_posts.csv ({len(post_rows)} rows)")
 
     # ── Summary ───────────────────────────────────────────────────────────
     incidents = {}
