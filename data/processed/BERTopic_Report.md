@@ -17,7 +17,7 @@ The 25 topics cluster into **6 higher-level discourse themes**. The most promine
 
 ---
 
-## Theme 1: Mental Illness & Legal Accountability ⭐
+## Theme 1: Mental Illness & Legal Accountability 
 
 > *The dominant theme. Public discourse overwhelmingly frames mental illness as a problematic shield against criminal punishment.*
 
