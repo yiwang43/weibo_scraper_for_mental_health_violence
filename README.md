@@ -12,15 +12,15 @@ Research data collection for studying public discourse around stranger violence 
 │   │   ├── Research Data - Sheet1.csv   # hand-coded incident spreadsheet
 │   │   ├── comments.json                # scraped comments (main URLs)
 │   │   ├── new_comments.json            # scraped comments (additional URLs)
-│   │   └── incident_coding.csv          # mental illness coding template (fill in)
+│   │   └── incident_coding.csv        
 │   └── processed/
-│       ├── enriched_comments.csv        # ★ main analysis file (2,220 comments)
+│       ├── enriched_comments.csv        # - main analysis file (2,220 comments)
 │       ├── enriched_posts.csv           # post-level summary (87 posts)
 │       ├── comments.csv                 # flat comments without metadata
 │       ├── comments_with_topics.csv     # enriched_comments + BERTopic labels
 │       ├── topic_summary.csv            # 25 topics with sizes and keywords
 │       ├── topic_examples.txt           # top 5 comments per topic (for close reading)
-│       ├── BERTopic_Report.md           # ★ professor-facing analysis report
+│       ├── BERTopic_Report.md           # analysis report
 │       └── figures/
 │           ├── topic_sizes.png          # bar chart: topic sizes by comment count
 │           ├── topic_heatmap.png        # heatmap: topics × top 15 incidents
@@ -34,7 +34,7 @@ Research data collection for studying public discourse around stranger violence 
 │   ├── search_scraper.py                # searches Weibo hashtags for new posts
 │   └── playwright_deep_scraper.py       # browser-based scraper (experimental)
 ├── urls.txt                             # Weibo post URLs grouped by incident
-├── cookies.json                         # session credentials — do not share
+├── cookies.json                         # session credentials 
 └── README.md
 ```
 
