@@ -183,19 +183,6 @@ Representative comments (ranked by likes):
 ### Topic 15 — Hospital security (20 comments) — *瑞金医院 case*
 **Top keywords:** 延误治疗时间 · 医院门口金属探测
 
----
-
-## Key Findings for Research
-
-1. **Mental illness framing is the dominant discourse theme.** Topic 0 alone accounts for 171 comments and contains the highest-engagement comments in the entire dataset (66k, 29k, 26k likes). Public reaction consistently frames mental illness diagnoses as legal loopholes rather than medical facts.
-
-2. **Two opposing legal narratives exist side by side.** Organic public comments (Topics 8, 9) demand harsher punishment and express skepticism of mitigation; state media-aligned comments (Topics 11, 12, 19) affirm the legal system and law enforcement. The two populations are distinguishable by their language register.
-
-3. **Child victims provoke the most intense moral outrage.** Topics 1, 3, and 18 together represent a distinct discourse cluster around cases involving kindergartens and schools, with language about dehumanizing perpetrators ("畜牲").
-
-4. **Information control is visible in the data itself.** Topic 7 captures a consistent pattern of comments about news disappearing, suppressed searches, and vague official notifications — itself a form of discourse about the limits of public knowledge.
-
-5. **The Shenzhen Japanese school stabbing is discursively isolated.** It generated a unique nationalist discourse that does not appear in other incidents, suggesting it is not comparable to the others for mental health framing analysis.
 
 ---
 
