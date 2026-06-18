@@ -1,5 +1,4 @@
-# BERTopic Analysis — Weibo Discourse on Stranger Violence
-**Project:** Mental Health and Violence in Chinese Public Discourse  
+# BERTopic Analysis
 **Data:** 2,188 comments across 35 incidents (2010–2025), scraped from Weibo  
 **Method:** BERTopic with `paraphrase-multilingual-MiniLM-L12-v2` sentence embeddings  
 
