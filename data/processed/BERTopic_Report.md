@@ -13,7 +13,7 @@
 | Topics found | 25 |
 | Outlier / unclustered comments | 345 |
 
-The 25 topics cluster into **6 higher-level discourse themes**. The most prominent single topic — by far — concerns mental illness as a mitigating legal defense, reflecting the centrality of this issue to public discourse around stranger violence.
+The 25 topics cluster into **6 higher-level discourse themes**. 
 
 ---
 
