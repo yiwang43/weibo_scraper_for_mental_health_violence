@@ -1,0 +1,151 @@
+,incident,text,likes,topic_id,bert_label,theme,comment_id,manual_theme,mental_illness_mentioned,sentiment_toward_mi_defense,bert_correct,notes
+1,泰安一中学附近校车冲撞学生事件,这是要了孩子父母的命啊，才开学第二天,1247,1,School/child safety measures,Child Victims,5074483590727094,Child Victims,no,n/a,yes,
+2,德州男子故意冲撞,学生放学时，让所有的汽车绕行，不准从校门口路段经过,865,1,School/child safety measures,Child Victims,5007196169703546,Child Victims,no,n/a,yes,
+3,廉江幼儿园行凶事件,把贪官坏人杀了也算你的功劳了！杀学生算什么本事？狗子,675,1,School/child safety measures,Child Victims,4921932396626444,Child Victims,no,n/a,yes,
+4,德州男子故意冲撞,放学期间，禁止所有小车通行,166,1,School/child safety measures,Child Victims,5007203319155868,Child Victims,no,n/a,yes,
+5,贵溪小学持刀伤人,太怜了，希望全国学校能够加强安保，放人进校园前一定要询问清楚并登记，希望能有用,145,1,School/child safety measures,Child Victims,5036156580270029,Child Victims,no,n/a,yes,
+6,无锡职业技术学院持刀伤人,这个真该死，自己考试不及格毕不了业赖别人,72,1,School/child safety measures,Child Victims,5124904640841732,Punishment & Justice,no,n/a,no,"Perpetrator was a college graduate attacking college-age students, not children; comment is anger at his excuse (failed exams), not child-safety framing"
+7,廉江幼儿园行凶事件,幼儿园应该由武警把守。现在幼儿园保安真不行，上学放学的时候拿个钢叉站着有什么用，而且都是年纪不小的大叔。 现在武警都比较闲吧，消防也不用他们管了，抗洪救灾很久都没有一回。每个幼儿园派一个就行，上学放学的时候各一个小时。现在很多步行街都有两个武警站岗。只要持枪的武警才能震慑（或特警,62,1,School/child safety measures,Child Victims,4921991532380991,Child Victims,no,n/a,yes,
+8,上海瑞金医院持刀砍人案,连孩子都伤害的，就不是个人！！,3360,3,Outrage: attacking children,Child Victims,4961474256044856,Child Victims,no,n/a,yes,
+9,贵溪小学持刀伤人,我的天啊，心都要碎了，都是孩子啊！,3137,3,Outrage: attacking children,Child Victims,5036153151946941,Child Victims,no,n/a,yes,
+10,2024年6月9日成都女子遇害案,杀人偿命，天经地义！大家会一直支持你，请保重好身体，我们一起呼吁为孩子讨回公道！,2332,3,Outrage: attacking children,Child Victims,5170982961547308,Punishment & Justice,no,n/a,partial,"Addressed to victim's mother re: an adult (27yo) victim; '孩子' used colloquially, not a literal child victim"
+11,廉江幼儿园行凶事件,谁害自己的就去找谁，搞什么小孩子，欺软怕硬的废物。,1144,3,Outrage: attacking children,Child Victims,4921928823343166,Child Victims,no,n/a,yes,
+12,贵溪小学持刀伤人,天哪，为什么伤害无辜的孩子,943,3,Outrage: attacking children,Child Victims,5036155521733342,Child Victims,no,n/a,yes,
+13,广西梧州旺甫小学保安持刀伤人,无论生活怎么对不起你，但这些孩子并没有错。,273,3,Outrage: attacking children,Child Victims,4512084550753049,Child Victims,no,n/a,yes,
+14,泰安一中学附近校车冲撞学生事件,隔着屏幕都能感受到那些父母的超级绝望 哎，人间惨剧，到底是谁的责任？,270,3,Outrage: attacking children,Child Victims,5074486489778812,Child Victims,no,n/a,yes,
+15,廉江幼儿园行凶事件,对谁不满找谁去啊！竟然对无辜的孩子下手！畜牲啊！,266,3,Outrage: attacking children,Child Victims,4921994749415219,Child Victims,no,n/a,yes,
+16,上海瑞金医院持刀砍人案,那个小孩 真的好心疼…,191,3,Outrage: attacking children,Child Victims,4789314268172013,Child Victims,no,n/a,yes,
+17,贵溪小学持刀伤人,无论你经历了什么，不能把刀伸向孩子！,189,3,Outrage: attacking children,Child Victims,5036159832690521,Child Victims,no,n/a,yes,
+18,江西一男子幼儿园行凶,对无辜的小孩下手，必须死刑,175,3,Outrage: attacking children,Child Victims,4798448594061262,Child Victims,no,n/a,yes,"Also calls for death penalty, but core sentiment is child-victim outrage"
+19,廉江幼儿园行凶事件,牲口！对孩子下手,124,3,Outrage: attacking children,Child Victims,4921992245417167,Child Victims,no,n/a,yes,
+20,上海瑞金医院持刀砍人案,为什么拐卖儿童不判死刑？,57,3,Outrage: attacking children,Child Victims,4961476747462422,Punishment & Justice,no,n/a,no,"Off-topic tangent about child-trafficking sentencing generally, not this incident's child victims"
+21,深圳日本人学校学生被刺,多报道一下巴勒斯坦加沙的儿童,54,3,Outrage: attacking children,Child Victims,5080990395141983,Media & Info Control,no,n/a,no,"Off-topic remark about coverage priorities (Gaza); matched on '儿童' keyword only, not about this incident's children"
+22,北京密云撞人,死了那么多孩子！为什么不报！,43,3,Outrage: attacking children,Child Victims,5182179132051594,Media & Info Control,no,n/a,partial,Mentions child deaths but core complaint is media non-reporting/suppression
+23,江西一男子幼儿园行凶,多少个家庭支离破碎,16430,18,Shattered families,Child Victims,4798388278662527,Child Victims,no,n/a,yes,
+24,泰安一中学附近校车冲撞学生事件,苍天啊‼️这要了多少家庭的命啊,48,18,Shattered families,Child Victims,5074490209861724,Child Victims,no,n/a,yes,
+25,景德镇一家三口被撞,遵守交通，珍惜生命，敬畏法律，做情绪稳定的人,357,23,Direct punishment calls,Child Victims,5253115097124149,Public Safety & Fear,no,n/a,no,"Generic traffic-safety/emotional-stability exhortation for a vehicle-ramming case with adult victims, not specifically about children"
+26,2025年8月景区故意捅人事件,真是飞来横祸，本来开开心心旅游,49793,2,Mixed reactions,Incident-Specific,5198891884743836,Incident-Specific,no,n/a,yes,
+27,江西一男子幼儿园行凶,这种适合立即千刀万剐,451,2,Mixed reactions,Incident-Specific,4798403748568749,Punishment & Justice,no,n/a,no,"Death-by-a-thousand-cuts punishment call, not a 'mixed reaction'"
+28,上海瑞金医院持刀砍人案,千万记住了，现在开始，大家都一定要低调。,383,2,Mixed reactions,Incident-Specific,4789345229210493,Public Safety & Fear,no,n/a,partial,Advises the public to 'keep a low profile' — general safety caution more than an incident-specific reaction
+29,上海瑞金医院持刀砍人案,专挑儿科下手，可真能,332,2,Mixed reactions,Incident-Specific,4789313815187142,Child Victims,no,n/a,no,Sarcastic outrage that the perpetrator specifically targeted pediatric patients
+30,江西一男子幼儿园行凶,凌迟我感觉该拾起来了,301,2,Mixed reactions,Incident-Specific,4798395539002898,Punishment & Justice,no,n/a,no,Advocates death by a thousand cuts
+31,无锡职业技术学院持刀伤人,加鑫，加金，加爵都完了。只有加班是安全的。,119,2,Mixed reactions,Incident-Specific,5124904764835131,Incident-Specific,no,n/a,yes,Dark wordplay on perpetrator's name (徐加金) and the case's labor-exploitation motif
+32,吉林北山公园伤人案,对，就这样处理。本来就是平常社会会出现的情况，自信回应就好。,103,2,Mixed reactions,Incident-Specific,5044156017673410,Incident-Specific,no,n/a,yes,
+33,上海地铁持刀伤人事件,这种反社会都建议给凌迟了,23,2,Mixed reactions,Incident-Specific,5046922465513662,Punishment & Justice,no,n/a,no,"Calls for extreme punishment (凌迟), not a 'mixed reaction'"
+34,2021中南财经政法大学副教授被精神病人杀害案,敖女士认为丈夫遇害情形应属于工伤，但学校和武汉市人社局均未予认可，家属已起诉武汉市人社局。12月5日上午9时，该案将在湖北武汉市中级人民法院开庭审理。,231,6,Comparative safety / patriotic discourse,Incident-Specific,5239906058372733,Incident-Specific,no,n/a,no,"Factual update on a workplace-injury lawsuit tied to the case, not patriotic/comparative discourse"
+35,深圳日本人学校学生被刺,中国社会始终与善良正义站在一起,53,6,Comparative safety / patriotic discourse,Incident-Specific,5080681544158591,Incident-Specific,no,n/a,yes,
+36,上海松江沃尔玛持刀伤人,前面的忘了，后面的忘了，反正我们中国比美国安全,49,6,Comparative safety / patriotic discourse,Incident-Specific,5084712479491101,Incident-Specific,no,n/a,yes,
+37,上海瑞金医院持刀砍人案,唐山的警察出警速度要是有上海十分之一快，4个女孩也不至于被打成那样，这点为上海警方点赞,41,6,Comparative safety / patriotic discourse,Incident-Specific,4789329089794010,Incident-Specific,no,n/a,yes,
+38,景德镇一家三口被撞,景德镇一家3口被撞惨案，司机一审死缓#景德镇一家3口被撞案一审宣判# 三条命啊，开车出行一定要注意安全！！！,83,14,Vehicle ramming sentencing (景德镇),Incident-Specific,5253117932215121,Incident-Specific,no,n/a,yes,Reports the actual sentencing outcome (死缓) for this case
+39,泰安一中学附近校车冲撞学生事件,“它是一个案子”是不是说明司机是故意的？还是说车被人动了手脚要报复谁呀？才开学两天呢，痛心啊,70,14,Vehicle ramming sentencing (景德镇),Incident-Specific,5074500091641903,Incident-Specific,no,n/a,partial,Speculation specific to the 泰安 case; bert sub-label mislabels it as '景德镇' sentencing
+40,泰安一中学附近校车冲撞学生事件,别到最后又说司机精神有问题,60,14,Vehicle ramming sentencing (景德镇),Incident-Specific,5074513685645546,Mental Illness & Law,yes,skeptical,no,Explicitly preempts a mental-illness defense narrative for the driver
+41,2023年5月4日列车持刀杀人案,我是一名985硕士，毕业于华东师范大学，被上海市肺科医院过量使用抗生素致残，一直合法维权，2022年10月7日，被上海市青浦区徐泾镇章文军安排人绑架，抢劫，给我套着头套运到金泽村子里，将我非法拘禁35天，几百次投诉举报，上海市公安机关至今未立案侦查，拒绝出具回执，拒绝接收任何证据材料！,968,15,Hospital security (瑞金医院),Incident-Specific,4955436162224083,Incident-Specific,no,n/a,no,"Off-topic/spam: unrelated personal grievance about hospital malpractice and detention, hijacking the thread"
+42,2023年5月4日列车持刀杀人案,请大家关注，2018年10月11日，上海仁济东院急诊副主任医师陈杰和主治医师陈琦，故意对家属隐瞒输洗涤红细胞的治疗措施，不按诊疗规范治疗，没有申请洗涤红输血治疗，造成我母亲入院3天后不治。上海卫健委充当保护伞，包庇医学会事故鉴定造假，护短无良医生，至今未对违法违规医生立案调查及行政处罚,54,15,Hospital security (瑞金医院),Incident-Specific,4955909342625947,Incident-Specific,no,n/a,no,Off-topic/spam: unrelated personal grievance about a different hospital's alleged malpractice
+43,上海瑞金医院持刀砍人案,安装安检，到时候又说，延误治疗时间,24,15,Hospital security (瑞金医院),Incident-Specific,4789333204143686,Incident-Specific,no,n/a,yes,
+44,上海瑞金医院持刀砍人案,论医院安检重要性这是血的教训,20,15,Hospital security (瑞金医院),Incident-Specific,4961483630314957,Incident-Specific,no,n/a,yes,
+45,泰安一中学附近校车冲撞学生事件,这司机是什么情况？听到视频里面的哭声，心脏都疼！何况他们的家人！,538,16,Grief for victims,Incident-Specific,5074495302537446,Child Victims,no,n/a,no,Grief centers on child victims/families; fits Child Victims better than the generic 'Incident-Specific' bucket
+46,泰安一中学附近校车冲撞学生事件,这场面，看着都忍不住想哭,71,16,Grief for victims,Incident-Specific,5074488855891218,Incident-Specific,no,n/a,yes,"General grief reaction, doesn't specify children"
+47,无锡职业技术学院持刀伤人,原本以为只是去锻炼一下就回家的夜晚，却因个人的主观恶意而变成许多家庭破碎的噩梦,25,16,Grief for victims,Incident-Specific,5124921441389851,Incident-Specific,no,n/a,yes,"Victims were college-age, not children, so 'shattered families' framing is incident-specific rather than Child Victims"
+48,深圳日本人学校学生被刺,日本人好好反思下,90,22,Nationalist framing (Shenzhen),Incident-Specific,5080662761800145,Incident-Specific,no,n/a,yes,
+49,上海松江男子超市持刀伤人,丧心病狂的凶手，被抓的视频还在笑…,1384,24,Perpetrator-specific outrage,Incident-Specific,5084496143582304,Incident-Specific,no,n/a,yes,
+50,2023年5月4日列车持刀杀人案,凭什么放出来杀人,22,24,Perpetrator-specific outrage,Incident-Specific,4955940744333267,Incident-Specific,no,n/a,yes,
+51,上海松江男子超市持刀伤人,刚才看到别的媒体报道，后来就没了，只剩凤凰了,166,7,Suppressed news / opaque reporting,Media & Info Control,5084490219651921,Media & Info Control,no,n/a,yes,
+52,上海松江沃尔玛持刀伤人,压得真好。这都不上热搜,72,7,Suppressed news / opaque reporting,Media & Info Control,5084663570239363,Media & Info Control,no,n/a,yes,
+53,湖北恩施涉校刑事案件,看不了这样的新闻,40,7,Suppressed news / opaque reporting,Media & Info Control,4412258958291951,Media & Info Control,no,n/a,yes,
+54,广州宝马撞人案,这个热搜怎么不热呢,25,7,Suppressed news / opaque reporting,Media & Info Control,5024821291259490,Media & Info Control,no,n/a,yes,
+55,沈阳六旬超市员工持刀行凶,这也能跑就很无语,17,7,Suppressed news / opaque reporting,Media & Info Control,4659006427104950,Incident-Specific,no,n/a,no,"About the perpetrator escaping/police competence, not media suppression"
+56,,为什么不敢说是哪里人？,14,7,Suppressed news / opaque reporting,Media & Info Control,5084685238274821,Media & Info Control,no,n/a,yes,Incident field blank in source data
+57,上海松江沃尔玛持刀伤人,为什么不敢说是哪里人？,14,7,Suppressed news / opaque reporting,Media & Info Control,5084685238274821,Media & Info Control,no,n/a,yes,
+58,德州男子故意冲撞,说句实话，这个事情我之前都不知道呢，可能是我错过了热搜吧，感觉真的非常严重呀，很可能就是故意的,13,7,Suppressed news / opaque reporting,Media & Info Control,5007215618689934,Media & Info Control,no,n/a,yes,
+59,江西一男子幼儿园行凶,关键还不上热搜，人民日报都没用报,7,7,Suppressed news / opaque reporting,Media & Info Control,4798436183119954,Media & Info Control,no,n/a,yes,
+60,广西梧州旺甫小学保安持刀伤人,回复@脑袋被猪啃了的猫:“你让我家破人亡我就让你女儿死”和之后有可能的“你不是在乎你的学校么？你不是在乎这群小孩么？你让我不好过，我就伤害你在乎的学校、小孩，让你也不好过”    本质上有什么区别呢,0,7,Suppressed news / opaque reporting,Media & Info Control,4512895074846006,Child Victims,no,n/a,no,Discusses the disturbing logic of threatening a perpetrator's own children/loved ones in retaliation; not about media suppression
+61,湖北恩施涉校刑事案件,回复@章开腿我金莱啦:别自己加戏 上来就我不懂然后就凭啥  你说凭啥 凭的就是你不懂的法,0,7,Suppressed news / opaque reporting,Media & Info Control,4413891192473379,Incident-Specific,no,n/a,no,"Off-topic reply in a bickering exchange between commenters about legal knowledge, unrelated to media suppression"
+62,泰安一中学附近校车冲撞学生事件,回复@祢也要来壹颗吗:那你一个被男人上女人才诞生的一个东西，这么恨男怎么不把自己销毁啊。 你不够纯，也不够忠诚啊。 你不会还心存幻想吧。噫，好恶心,0,7,Suppressed news / opaque reporting,Media & Info Control,5082574239829473,Incident-Specific,no,n/a,no,"Off-topic flame-war/insult exchange between commenters, unrelated to the incident or media control"
+63,湖北恩施涉校刑事案件,为什么微博热搜没有这个。又被河蟹了嘛。这种新闻为什么不敢放,0,7,Suppressed news / opaque reporting,Media & Info Control,4413537914547992,Media & Info Control,no,n/a,yes,
+64,上海松江沃尔玛持刀伤人,马利弊新闻都看不到,0,7,Suppressed news / opaque reporting,Media & Info Control,5084681383187709,Media & Info Control,no,n/a,yes,"Text is partly garbled, but content matches a suppression complaint"
+65,泰安一中学附近校车冲撞学生事件,回复@JL-春风客:真的是 我说的又不是你,0,7,Suppressed news / opaque reporting,Media & Info Control,5074838500674859,Incident-Specific,no,n/a,no,"Off-topic reply clarifying a prior remark in an argument, unrelated to media suppression"
+66,上海松江男子超市持刀伤人,这种事发生太多了，每次就是个警情通报，从不分析这背后的真相和原因。,285,17,Media critique,Media & Info Control,5084573005777112,Media & Info Control,no,n/a,yes,
+67,泰安一中学附近校车冲撞学生事件,？？？怎么这么写新闻？现在不该关注伤员情况，去跟踪调查报道吗，现在引导什么啊在,227,17,Media critique,Media & Info Control,5074501809214241,Media & Info Control,no,n/a,yes,
+68,广西梧州旺甫小学保安持刀伤人,在拍手喝采之前 我們希望見到事件的完整報告 包括雙方的陳述辯解 而不只是簡單的通報 就評論是非,4,17,Media critique,Media & Info Control,4546937871670245,Media & Info Control,no,n/a,yes,
+69,江西一男子幼儿园行凶,真的每次看见这种新闻真的只有无奈，真的无奈，面对这种该怎么办，能不能有什么有效措施,1,17,Media critique,Media & Info Control,4798408294668090,Public Safety & Fear,no,n/a,no,Expresses general helplessness about recurring violence rather than a specific media critique
+70,2013年北京首都机场爆炸案,不详细报道怎能保障公众知情权。媒体报道的着眼点是有改进的地方。关键是人心，正常人会做出如此反社会的事情么。,1,17,Media critique,Media & Info Control,3732999088839495,Media & Info Control,no,n/a,yes,
+71,上海地铁持刀伤人事件,媒体多报导一些正能量的事件,0,17,Media critique,Media & Info Control,5047366002937245,Media & Info Control,no,n/a,yes,
+72,2013年北京首都机场爆炸案,关键是报道的方式,0,17,Media critique,Media & Info Control,3751766011542216,Media & Info Control,no,n/a,yes,
+73,2010年4月福建南平校园惨案,那媒体是不是要隐藏性质的报道这事情。。不是那么所谓的社会化，而是社会化的本身主体是什么？？及政府部门 的对安全隐患的工作是否到位。。公民的归宿感，社会个人的责任感,0,17,Media critique,Media & Info Control,3587058595530351,Media & Info Control,no,n/a,yes,
+74,2010年4月福建南平校园惨案,社交媒体年代如引导与控制？,0,17,Media critique,Media & Info Control,3587383200767373,Media & Info Control,no,n/a,yes,
+75,2013年北京首都机场爆炸案,回复@涂鸦中国:不是不报 是换种方式报道 比如多报犯罪成本 犯罪后果 起到警示的作用,0,17,Media critique,Media & Info Control,3732983381399136,Media & Info Control,no,n/a,yes,
+76,红谷滩杀人事件,希望精神病不是挡箭牌,66290,0,Mental illness as legal shield,Mental Illness & Law,4398598739064903,Mental Illness & Law,yes,skeptical,yes,
+77,红谷滩杀人事件,无辜的人惨死，精神病人逍遥。这事现在太频繁了吧，还有未成年人犯案。要死多少人政府才能下重手整治,13257,0,Mental illness as legal shield,Mental Illness & Law,4398598937079460,Mental Illness & Law,yes,skeptical,yes,
+78,红谷滩杀人事件,严惩凶手，哪怕有精神病，其监护人也必须负责！,7661,0,Mental illness as legal shield,Mental Illness & Law,4398598949336434,Mental Illness & Law,yes,skeptical,yes,
+79,2024年6月9日成都女子遇害案,精神病人杀人更应该死刑，这样可以减少潜在的杀人案。,2848,0,Mental illness as legal shield,Mental Illness & Law,5170683539363971,Mental Illness & Law,yes,skeptical,yes,
+80,红谷滩杀人事件,真有精神疾病的，要有相应的管控和治疗！,2500,0,Mental illness as legal shield,Mental Illness & Law,4398598659515804,Mental Illness & Law,yes,supportive,yes,Supports proper management/treatment for genuine cases rather than disputing MI's legitimacy as a factor
+81,红谷滩杀人事件,神经病应该加重判刑！！！！！！持有精神证件对于社会危害较大的动物！！至少关50年以上！！！如有杀害致人死亡的精神病动物！直接枪毙！直系亲属也有连带责任！！！这样估计有些精神病就不会闹事了,1772,0,Mental illness as legal shield,Mental Illness & Law,4398601834393744,Mental Illness & Law,yes,skeptical,yes,"Extremely hostile, dehumanizing language"
+82,红谷滩杀人事件,精神病真的不能是理由,1277,0,Mental illness as legal shield,Mental Illness & Law,4398601465375923,Mental Illness & Law,yes,skeptical,yes,
+83,上海瑞金医院持刀砍人案,一开始还有人造谣他杀人是因为亲人被医院治死了吹嘘他情有可缘，骂医生活该。,1024,0,Mental illness as legal shield,Mental Illness & Law,4961476717842727,Incident-Specific,no,n/a,no,"About a circulating rumor concerning a revenge/malpractice motive, not mental illness"
+84,2024年6月9日成都女子遇害案,精神病为什么不在精神院,731,0,Mental illness as legal shield,Mental Illness & Law,5170680745430497,Mental Illness & Law,yes,skeptical,yes,
+85,红谷滩杀人事件,残疾证不等于杀人证！,544,0,Mental illness as legal shield,Mental Illness & Law,4398603193343584,Mental Illness & Law,yes,skeptical,yes,
+86,2024年6月9日成都女子遇害案,精神疾病也分对社会有害和无害的，请不要一言以概之,408,0,Mental illness as legal shield,Mental Illness & Law,5170851941189229,Mental Illness & Law,yes,neutral,yes,Cautions against over-generalizing about mental illness
+87,2024年6月9日成都女子遇害案,我觉得不是所有的精神病都没有负刑事责任的能力的。也不是所有的未成年都不具备负刑事责任的能力的。建议加强律法的完善和案例的弹性。,391,0,Mental illness as legal shield,Mental Illness & Law,5171002037504213,Mental Illness & Law,yes,neutral,yes,"Balanced legal argument, not clearly skeptical or supportive"
+88,2024年6月9日成都女子遇害案,我觉得不是所有的精神病都没有负刑事责任的能力的。也不是所有的未成年都不具备负刑事责任的能力的。建议加强律法的完善和案例的弹性。,391,0,Mental illness as legal shield,Mental Illness & Law,5171002037504213,Mental Illness & Law,yes,neutral,yes,Duplicate of comment #87
+89,江西一男子幼儿园行凶,精神病咋不去政府大楼，他挺知道欺负弱小的,340,0,Mental illness as legal shield,Mental Illness & Law,4798407656604497,Mental Illness & Law,yes,skeptical,yes,
+90,2025年8月景区故意捅人事件,精神病不是免死金牌,316,0,Mental illness as legal shield,Mental Illness & Law,5199151750975236,Mental Illness & Law,yes,skeptical,yes,
+91,2025年8月景区故意捅人事件,括号里那句精神病史有必要放在警情通报里吗！,300,0,Mental illness as legal shield,Mental Illness & Law,5199147827463383,Mental Illness & Law,yes,skeptical,yes,"Criticizes the police notice for including MI-history detail, implying prejudicial/leniency framing"
+92,湖南故意伤害案,精神病？能不能判死刑？精神病免责这个事我是一直不理解的,215,0,Mental illness as legal shield,Mental Illness & Law,5195925703624939,Mental Illness & Law,yes,skeptical,yes,
+93,广西梧州旺甫小学保安持刀伤人,这种要是后面再爆出个精神病也要关他无期,193,0,Mental illness as legal shield,Mental Illness & Law,4512082046757666,Mental Illness & Law,yes,skeptical,yes,
+94,广州宝马撞人案,一个字“好”！之前还申请精神鉴定....,133,0,Mental illness as legal shield,Mental Illness & Law,5024823684366995,Mental Illness & Law,yes,skeptical,yes,Approves the apparent rejection of a psychiatric-evaluation request
+95,2023年5月4日列车持刀杀人案,杀了人就是凶手是精神病,94,0,Mental illness as legal shield,Mental Illness & Law,4899593655946811,Mental Illness & Law,yes,skeptical,yes,
+96,2023年5月4日列车持刀杀人案,真是可怕，精神病这个理由就结束了嘛，那是一条鲜活的生命啊,63,0,Mental illness as legal shield,Mental Illness & Law,4899594079310969,Mental Illness & Law,yes,skeptical,yes,
+97,广西梧州旺甫小学保安持刀伤人,不会又是精神病吧？,49,0,Mental illness as legal shield,Mental Illness & Law,4512084828666562,Mental Illness & Law,yes,skeptical,yes,
+98,2024年6月9日成都女子遇害案,精神病人，不犯病期间，自己承担责任，犯病期间，监护人承担责任。,41,0,Mental illness as legal shield,Mental Illness & Law,5170806642443578,Mental Illness & Law,yes,neutral,yes,States the legal principle rather than expressing an opinion
+99,2023年5月4日列车持刀杀人案,他都35了，父母还能监管多久,61,20,Recidivism / fear of release,Mental Illness & Law,4955783882869812,Mental Illness & Law,yes,skeptical,partial,Skeptical that aging parents can adequately supervise; bert sub-label frames it as recidivism/release fear
+100,景德镇一家三口被撞,过几年就出来了是这样吗,54,20,Recidivism / fear of release,Mental Illness & Law,5253107972050166,Punishment & Justice,no,n/a,no,No mental illness mentioned; concern is about parole/lenient sentencing in a vehicle-ramming case
+101,廉江幼儿园行凶事件,怎么老有人往压力大上扯，活不下去捅自己啊，害别人干嘛……,20194,4,General fear / 'anyone could be a victim',Public Safety & Fear,4921925119248049,Public Safety & Fear,no,n/a,yes,
+102,泰安一中学附近校车冲撞学生事件,这是报复社会吗？,368,4,General fear / 'anyone could be a victim',Public Safety & Fear,5074503392560908,Public Safety & Fear,no,n/a,yes,
+103,景德镇一家三口被撞,太可恶了，必须严惩,286,4,General fear / 'anyone could be a victim',Public Safety & Fear,5253118516531654,Punishment & Justice,no,n/a,no,"Direct punishment call, not a general-fear statement"
+104,廉江幼儿园行凶事件,失业率那么高，戾气太重了,181,4,General fear / 'anyone could be a victim',Public Safety & Fear,4921910619801724,Public Safety & Fear,no,n/a,yes,
+105,湖北恩施涉校刑事案件,这种反社会人格的人太恐怖了,103,4,General fear / 'anyone could be a victim',Public Safety & Fear,4412266269334667,Public Safety & Fear,no,n/a,yes,
+106,2024年6月9日成都女子遇害案,太可怕啦 太危险啦,64,4,General fear / 'anyone could be a victim',Public Safety & Fear,5171009235195909,Public Safety & Fear,no,n/a,yes,
+107,德州男子故意冲撞,卧槽这是报复社会吗？,14,4,General fear / 'anyone could be a victim',Public Safety & Fear,5007215951612340,Public Safety & Fear,no,n/a,yes,
+108,廉江幼儿园行凶事件,只对弱小出手  真的很典  报复社会怎么不去找恶霸,8,4,General fear / 'anyone could be a victim',Public Safety & Fear,4922084520892957,Public Safety & Fear,no,n/a,yes,
+109,沈阳六旬超市员工持刀行凶,靠！ 报复社会啊,5,4,General fear / 'anyone could be a victim',Public Safety & Fear,4659005047963809,Public Safety & Fear,no,n/a,yes,
+110,广西梧州旺甫小学保安持刀伤人,有些人，仇恨社会，却只敢向没有还手之力的人发泄。真的是心理阴暗,3,4,General fear / 'anyone could be a victim',Public Safety & Fear,4512083671482455,Public Safety & Fear,no,n/a,yes,
+111,上海松江沃尔玛持刀伤人,社会缺少公平正义每个人都可能成为受害者。,2,4,General fear / 'anyone could be a victim',Public Safety & Fear,5084616833108578,Public Safety & Fear,no,n/a,yes,
+112,廉江幼儿园行凶事件,戾气太重...……,1,4,General fear / 'anyone could be a victim',Public Safety & Fear,4921975267398221,Public Safety & Fear,no,n/a,yes,
+113,2013年北京首都机场爆炸案,助长他们的是这个腐败无能，有失公允，法律要靠后台和金钱才能伸张正义的 社会,1,4,General fear / 'anyone could be a victim',Public Safety & Fear,3733015522409979,Public Safety & Fear,no,n/a,yes,
+114,红谷滩杀人事件,真的是走在大街上都害怕呀,1,4,General fear / 'anyone could be a victim',Public Safety & Fear,4399162759756122,Public Safety & Fear,no,n/a,yes,
+115,2023年5月4日列车持刀杀人案,说千道万安检出大问题了……,60,5,Security infra debate,Public Safety & Fear,4899593856489679,Public Safety & Fear,no,n/a,yes,
+116,广西梧州旺甫小学保安持刀伤人,疯人级别的保安，能保谁的安❓ ！,55,5,Security infra debate,Public Safety & Fear,4512082068433639,Public Safety & Fear,no,n/a,yes,
+117,广西梧州旺甫小学保安持刀伤人,保安？？？砍人？？是精神不正常还是什么因素,29,5,Security infra debate,Public Safety & Fear,4512084517366062,Mental Illness & Law,yes,neutral,no,Explicitly raises psychiatric abnormality as a possible cause; fits Mental Illness & Law better than generic security-infra debate
+118,2024年6月9日成都女子遇害案,保安是不是也应该限制一下年龄了,16,5,Security infra debate,Public Safety & Fear,5171062052752561,Public Safety & Fear,no,n/a,yes,
+119,2024年6月9日成都女子遇害案,保安是不是也应该限制一下年龄了,16,5,Security infra debate,Public Safety & Fear,5171062052752561,Public Safety & Fear,no,n/a,yes,Duplicate of comment #118
+120,2024年6月9日成都女子遇害案,一直不清楚的一点，当时保安在干嘛啊,12,5,Security infra debate,Public Safety & Fear,5171027443450410,Public Safety & Fear,no,n/a,yes,
+121,上海地铁持刀伤人事件,谁要为安检摇旗，不如出门都安检,12,5,Security infra debate,Public Safety & Fear,5046922802365701,Public Safety & Fear,no,n/a,yes,
+122,广西梧州旺甫小学保安持刀伤人,千万不要又是保安有精神病这种幺蛾子,10,5,Security infra debate,Public Safety & Fear,4512084400385365,Mental Illness & Law,yes,skeptical,no,Explicitly preempts a mental-illness defense for the security guard
+123,上海地铁持刀伤人事件,安检干嘛？有一定责任,10,5,Security infra debate,Public Safety & Fear,5047274068248476,Public Safety & Fear,no,n/a,yes,
+124,广西梧州旺甫小学保安持刀伤人,保安还砍人？要点脸吗？,1,5,Security infra debate,Public Safety & Fear,4518356135242727,Public Safety & Fear,no,n/a,yes,
+125,上海松江男子超市持刀伤人,松汇中路距离醉白池65米，我2023以前住醉白池旁边，那里真的很偏。我还记得前几个月早上搭地铁去上班路过合川路地铁站，跳过去了，不明白为啥会跳站，结果是有人持刀在地铁口行凶无差别杀人，大概就发生在8.26分我记得，我每天大概9点多会路过一下合川路。我以为逃过一劫我会很难释怀这件事，但是我真...全文,40,10,Premeditation / weapon carrying,Public Safety & Fear,5084600305189770,Public Safety & Fear,no,n/a,yes,Personal near-miss narrative
+126,红谷滩杀人事件,死刑就是最好的治疗！,2365,8,Death penalty arguments,Punishment & Justice,4398600425078791,Punishment & Justice,yes,skeptical,yes,"Sarcastic dig at mental-illness 'treatment' framing, in context of a case with an active MI-defense debate"
+127,广西梧州旺甫小学保安持刀伤人,死刑是它唯一的归宿,105,8,Death penalty arguments,Punishment & Justice,4512084409225675,Punishment & Justice,no,n/a,yes,
+128,2024年6月9日成都女子遇害案,不管什么理由的故意杀人都要偿命，过失致人死亡也要重判，这才是尊重生命，而不是保护凶犯,90,8,Death penalty arguments,Punishment & Justice,5170812009316378,Punishment & Justice,no,n/a,yes,
+129,景德镇一家三口被撞,不合理！！为什么是死缓？不是死刑？？,42,8,Death penalty arguments,Punishment & Justice,5253109324449537,Punishment & Justice,no,n/a,yes,
+130,湖北恩施涉校刑事案件,惩罚不可饶恕之罪，便是死刑存在的意义,26,8,Death penalty arguments,Punishment & Justice,4454233958613066,Punishment & Justice,no,n/a,yes,
+131,无锡职业技术学院持刀伤人,这个死刑是枪决还是注射死刑？,6,8,Death penalty arguments,Punishment & Justice,5124907119414276,Punishment & Justice,no,n/a,yes,
+132,景德镇一家三口被撞,一家三口都没有了，必须严惩！,640,9,Retributive anger,Punishment & Justice,5253115976615127,Punishment & Justice,no,n/a,yes,
+133,湖北恩施涉校刑事案件,要是在美国已经凉了，毕竟枪击每一天,23,9,Retributive anger,Punishment & Justice,4412058315560535,Incident-Specific,no,n/a,no,"CORRECTED on self-check: this is the same comparative-country rhetorical move (China/incident vs. US) coded as Incident-Specific in rows 35-37 — originally left inconsistently under Punishment & Justice"
+134,江西一男子幼儿园行凶,这种人永远只会找弱小下手,14,9,Retributive anger,Punishment & Justice,4798451168581606,Punishment & Justice,no,n/a,yes,
+135,上海瑞金医院持刀砍人案,他怎么不砍自己家的人,11,9,Retributive anger,Punishment & Justice,4961484847973809,Punishment & Justice,no,n/a,yes,
+136,广西梧州旺甫小学保安持刀伤人,伤心病狂，这种人必须重判,9,9,Retributive anger,Punishment & Justice,4512069045053814,Punishment & Justice,no,n/a,yes,
+137,江西一男子幼儿园行凶,只敢对弱小幼崽下手的懦弱男,8,9,Retributive anger,Punishment & Justice,4798469221649503,Punishment & Justice,no,n/a,yes,
+138,贵溪小学持刀伤人,希望这种恶性犯罪，一是对凶手都能从速判决、从速枪毙；二是深挖背后的矛盾堵点，以期完善我们的社会治理工作，让悲剧不再发生。,2187,11,Legal system will prevail,Punishment & Justice,5036153936281887,Punishment & Justice,no,n/a,yes,
+139,无锡职业技术学院持刀伤人,法网恢恢，疏而不漏，犯罪分子终会受到应有的惩罚,69,11,Legal system will prevail,Punishment & Justice,5124918668690024,Punishment & Justice,no,n/a,yes,
+140,湖北恩施涉校刑事案件,所以说不该留的人留下了，继续犯罪垃圾人早点处理。,55,11,Legal system will prevail,Punishment & Justice,4412404202894290,Punishment & Justice,no,n/a,yes,
+141,广西梧州旺甫小学保安持刀伤人,凶手必须严惩重判,21,11,Legal system will prevail,Punishment & Justice,4512061034206063,Punishment & Justice,no,n/a,yes,
+142,广西梧州旺甫小学保安持刀伤人,这种突发事件，最好的处置就是将罪犯尽快当场击毙!,9,11,Legal system will prevail,Punishment & Justice,4512063924065954,Punishment & Justice,no,n/a,yes,
+143,2025年8月景区故意捅人事件,希望给一个合理的宣判,19540,12,Support for court verdicts,Punishment & Justice,5198892519393256,Punishment & Justice,no,n/a,yes,
+144,湖北恩施涉校刑事案件,当时这个负责判刑9年的法官，请问你看到这条新闻做何感想,494,12,Support for court verdicts,Punishment & Justice,4412404823695923,Punishment & Justice,no,n/a,yes,
+145,无锡职业技术学院持刀伤人,这才是正义的判决，这才是人民群众期盼的结果！,46,12,Support for court verdicts,Punishment & Justice,5124936077412153,Punishment & Justice,no,n/a,yes,
+146,无锡职业技术学院持刀伤人,这判决好，就该判这个！,30,12,Support for court verdicts,Punishment & Justice,5124933416129582,Punishment & Justice,no,n/a,yes,
+147,红谷滩杀人事件,这TM还留着干嘛？？？,327,13,Execute immediately,Punishment & Justice,4398600400128177,Punishment & Justice,no,n/a,yes,
+148,北京密云撞人,操作不当？？？qnm呢,40,13,Execute immediately,Punishment & Justice,5182142595205318,Media & Info Control,no,n/a,no,Anger at the official notice's '操作不当' (improper operation) framing rather than an execute-immediately sentiment
+149,德州男子故意冲撞,希望孩子们平安🙏🏻,29,13,Execute immediately,Punishment & Justice,5007204203892337,Child Victims,no,n/a,no,"Expresses concern for children's safety, not an execution call"
+150,贵溪小学持刀伤人,法律必将严惩一切犯罪行为！,30,19,Praise for law enforcement,Punishment & Justice,5036160694883079,Punishment & Justice,no,n/a,yes,
