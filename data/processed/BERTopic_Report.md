@@ -2,8 +2,6 @@
 **Data:** 2,188 comments across 35 incidents (2010–2025), scraped from Weibo  
 **Method:** BERTopic with `paraphrase-multilingual-MiniLM-L12-v2` sentence embeddings  
 
----
-
 ## Overview
 
 | | |
@@ -13,8 +11,6 @@
 | Outlier / unclustered comments | 345 |
 
 The 25 topics cluster into **6 higher-level discourse themes**. 
-
----
 
 ## Theme 1: Mental Illness & Legal Accountability 
 
@@ -57,8 +53,6 @@ Representative comments (ranked by likes):
 > 是不是应该终生强制医疗？否则别过两年说好了就给放出来了  
 > *"Should it be mandatory lifelong psychiatric custody? Otherwise in two years they'll say he's better and let him out."*
 
----
-
 ## Theme 2: Demands for Punishment & Justice
 
 ### Topic 8 - Death penalty debate (32 comments)
@@ -90,8 +84,6 @@ Representative comments (ranked by likes):
 
 > *Note: Topics 11, 12, 19 are predominantly state media-aligned boilerplate comments, in contrast to the organic outrage in Topics 8 and 9.*
 
----
-
 ## Theme 3: Child Victims & Vulnerability
 
 ### Topic 1 - School safety measures (90 comments)
@@ -118,8 +110,6 @@ Representative comments (ranked by likes):
 > 多少个家庭支离破碎  
 > *"How many families torn apart."*
 
----
-
 ## Theme 4: Public Safety & Fear
 
 ### Topic 4 - "Anyone could be a victim" (45 comments)
@@ -143,7 +133,7 @@ Representative comments (ranked by likes):
 > 刀怎么带上火车的！！！  
 > *"How did he get a knife onto the train?!"*
 
----
+
 
 ## Theme 5: Media & Information Control
 
@@ -168,7 +158,7 @@ Representative comments (ranked by likes):
 > 这种事发生太多了，每次就是个警情通报，从不分析这背后的真相和原因。  
 > *"This happens too often. Every time it's just a police bulletin - never any analysis of the truth or cause."*
 
----
+
 
 ## Theme 6: Incident-Specific Discourse
 
@@ -184,7 +174,7 @@ Representative comments (ranked by likes):
 **Top keywords:** 延误治疗时间 · 医院门口金属探测
 
 
----
+
 
 ## Figures
 
