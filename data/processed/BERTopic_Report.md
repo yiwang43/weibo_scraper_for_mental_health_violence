@@ -1,5 +1,4 @@
 # BERTopic Analysis
-**Data:** 2,188 comments across 35 incidents (2010–2025), scraped from Weibo  
 **Method:** BERTopic with `paraphrase-multilingual-MiniLM-L12-v2` sentence embeddings  
 
 ## Overview
@@ -13,8 +12,6 @@
 The 25 topics cluster into **6 higher-level discourse themes**. 
 
 ## Theme 1: Mental Illness & Legal Accountability 
-
-> *The dominant theme. Public discourse overwhelmingly frames mental illness as a problematic shield against criminal punishment.*
 
 ### Topic 0 - "Mental illness is not a get-out-of-jail-free card" (171 comments)
 **Top keywords:** 精神病不是免死金牌 · 精神病 · 精神病在没发病的情况下
