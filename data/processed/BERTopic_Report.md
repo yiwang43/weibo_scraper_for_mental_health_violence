@@ -178,14 +178,14 @@ Representative comments (ranked by likes):
 ### Figure 1 - Topic Sizes
 ![Topic Sizes](figures/topic_sizes.png)
 
-Horizontal bar chart of all 25 topics by comment count, color-coded by the 6 discourse themes. Topic 0 ("Mental illness as legal shield") is the largest topic by a wide margin (171 comments), nearly double the next largest topic (school/child safety, 90 comments).
+Horizontal bar chart of all 25 topics by comment count, color-coded by the 6 discourse themes. Topic 0 ("Mental illness as legal shield") nearly double the next largest topic (school/child safety, 90 comments).
 
 ---
 
 ### Figure 2 - Topic Distribution Across Top 15 Incidents
 ![Topic Heatmap](figures/topic_heatmap.png)
 
-Each row is an incident; each column is one of the top 12 topics. Cell values show what percentage of that incident's comments fall into each topic. Key patterns:
+Each row is an incident; each column is one of the top 12 topics. Cell values show what percentage of that incident's comments fall into each topic. 
 - **红谷滩杀人事件** and **成都女子遇害案** are heavily dominated by the mental illness topic (80%+).
 - **江西幼儿园** and **廉江幼儿园** cluster into child victim topics (Topics 1, 3).
 - **景德镇** and **瑞金医院** show distinct single-incident topics (Topics 14, 15).
@@ -195,5 +195,4 @@ Each row is an incident; each column is one of the top 12 topics. Cell values sh
 ### Figure 3 - Average Engagement (Likes) per Topic
 ![Topic Likes](figures/topic_likes.png)
 
-Average likes per comment for the 12 largest topics. The mental illness topic averages **1,197 likes per comment** - far exceeding all others. Even the second-highest topic (mixed reactions, ~861 avg likes) is a distant runner-up. This confirms that mental illness framing is not only the most common discourse but also the most publicly resonant.
-
+Average likes per comment for the 12 largest topics. 
